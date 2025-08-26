@@ -30,7 +30,7 @@ To build the app, you must use Gradle. It's highly recommended to use Android St
 > [!TIP]
 > You can also check the `mod` package, which contains the majority of contributors' changes.
 
-## Contributing
+## ## Quick Guide for Contributors
 
 If you'd like to contribute to Sketchware Pro, follow these steps:
 
@@ -73,6 +73,30 @@ Thank you for contributing to Sketchware Pro! Your contributions help keep Sketc
 Want to chat with us, discuss changes, or just hang out? We have a Discord server just for that.
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/kq39yhT4rX)](http://discord.gg/kq39yhT4rX)
+
+## Installation
+
+Getting started with Sketchware Pro is simple:
+
+1. Download the latest APK from the [Releases page](https://github.com/Sketchware-Pro/Sketchware-Pro/releases).
+2. On your Android device, enable **Install from Unknown Sources** in settings if needed.
+3. Install the APK.
+4. Open Sketchware Pro and start building your projects!
+
+---
+
+## FAQ
+
+**Q: The app doesn’t install. What should I do?**  
+A: Make sure you uninstall the original Sketchware app first, then install Sketchware Pro.  
+
+**Q: Where are my projects stored?**  
+A: Check the folder `/storage/emulated/0/Sketchware/`.  
+
+**Q: Can I use Sketchware Pro without internet?**  
+A: Yes, you can build and run projects offline, but some features (like templates or assets) may require internet.  
+
+---
 
 ## Disclaimer
 
