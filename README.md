@@ -68,11 +68,14 @@ Examples:
 
 Thank you for contributing to Sketchware Pro! Your contributions help keep Sketchware Pro alive. Each accepted contribution will be noted down in the "About Team" activity. We'll use your GitHub name and profile picture initially, but they can be changed, of course.
 
-## Discord
+## Community
 
-Want to chat with us, discuss changes, or just hang out? We have a Discord server just for that.
+Want to chat with us, discuss changes, or just hang out?  
+You can join our community here:
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/kq39yhT4rX)](http://discord.gg/kq39yhT4rX)
+
+[![Join our Telegram group!](https://img.shields.io/badge/Telegram-Join%20Group-blue)](https://t.me/sketchwarepro)
 
 ## Installation
 
